@@ -1,0 +1,144 @@
+C:\Personal Data\School\Programare\C#\Atestat_matrici\bin\Debug\Cont.mdf
+C:\Personal Data\School\Programare\C#\Atestat_matrici\bin\Debug\Cont_log.ldf
+C:\Personal Data\School\Programare\C#\Atestat_matrici\bin\Debug\Atestat_matrici.exe.config
+C:\Personal Data\School\Programare\C#\Atestat_matrici\bin\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici\bin\Debug\Atestat_matrici.pdb
+C:\Personal Data\School\Programare\C#\Atestat_matrici\obj\Debug\Atestat_matrici.csproj.AssemblyReference.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici\obj\Debug\Atestat_matrici.Form1.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici\obj\Debug\Atestat_matrici.Properties.Resources.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici\obj\Debug\Atestat_matrici.csproj.GenerateResource.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici\obj\Debug\Atestat_matrici.csproj.CoreCompileInputs.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici\obj\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici\obj\Debug\Atestat_matrici.pdb
+D:\Mihai Bucila XII A\Atestat_matrici - Copy 11.01\obj\Debug\Atestat_matrici.csprojAssemblyReference.cache
+D:\Mihai Bucila XII A\Atestat_matrici - Copy 11.01\obj\Debug\Atestat_matrici.Form1.resources
+D:\Mihai Bucila XII A\Atestat_matrici - Copy 11.01\obj\Debug\Atestat_matrici.Properties.Resources.resources
+D:\Mihai Bucila XII A\Atestat_matrici - Copy 11.01\obj\Debug\Atestat_matrici.csproj.GenerateResource.cache
+D:\Mihai Bucila XII A\Atestat_matrici - Copy 11.01\obj\Debug\Atestat_matrici.csproj.CoreCompileInputs.cache
+D:\Mihai Bucila XII A\Atestat_matrici - Copy 11.01\obj\Debug\Atestat_matrici.exe
+D:\Mihai Bucila XII A\Atestat_matrici - Copy 11.01\obj\Debug\Atestat_matrici.pdb
+D:\Mihai Bucila XII A\Atestat_matrici - Copy 11.01\bin\Debug\Cont.mdf
+D:\Mihai Bucila XII A\Atestat_matrici - Copy 11.01\bin\Debug\Cont_log.ldf
+D:\Mihai Bucila XII A\Atestat_matrici - Copy 11.01\bin\Debug\Atestat_matrici.exe.config
+D:\Mihai Bucila XII A\Atestat_matrici - Copy 11.01\bin\Debug\Atestat_matrici.exe
+D:\Mihai Bucila XII A\Atestat_matrici - Copy 11.01\bin\Debug\Atestat_matrici.pdb
+D:\Mihai Bucila XII A\Atestat_matrici - 13.01\bin\Debug\Cont.mdf
+D:\Mihai Bucila XII A\Atestat_matrici - 13.01\bin\Debug\Cont_log.ldf
+D:\Mihai Bucila XII A\Atestat_matrici - 13.01\bin\Debug\Atestat_matrici.exe.config
+D:\Mihai Bucila XII A\Atestat_matrici - 13.01\bin\Debug\Atestat_matrici.exe
+D:\Mihai Bucila XII A\Atestat_matrici - 13.01\bin\Debug\Atestat_matrici.pdb
+D:\Mihai Bucila XII A\Atestat_matrici - 13.01\obj\Debug\Atestat_matrici.csprojAssemblyReference.cache
+D:\Mihai Bucila XII A\Atestat_matrici - 13.01\obj\Debug\Atestat_matrici.Form1.resources
+D:\Mihai Bucila XII A\Atestat_matrici - 13.01\obj\Debug\Atestat_matrici.Properties.Resources.resources
+D:\Mihai Bucila XII A\Atestat_matrici - 13.01\obj\Debug\Atestat_matrici.csproj.GenerateResource.cache
+D:\Mihai Bucila XII A\Atestat_matrici - 13.01\obj\Debug\Atestat_matrici.csproj.CoreCompileInputs.cache
+D:\Mihai Bucila XII A\Atestat_matrici - 13.01\obj\Debug\Atestat_matrici.exe
+D:\Mihai Bucila XII A\Atestat_matrici - 13.01\obj\Debug\Atestat_matrici.pdb
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 16.01\bin\Debug\Cont.mdf
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 16.01\bin\Debug\Cont_log.ldf
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 16.01\bin\Debug\Atestat_matrici.exe.config
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 16.01\bin\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 16.01\bin\Debug\Atestat_matrici.pdb
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 16.01\obj\Debug\Atestat_matrici.csproj.AssemblyReference.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 16.01\obj\Debug\Atestat_matrici.Form1.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 16.01\obj\Debug\Atestat_matrici.Properties.Resources.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 16.01\obj\Debug\Atestat_matrici.csproj.GenerateResource.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 16.01\obj\Debug\Atestat_matrici.csproj.CoreCompileInputs.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 16.01\obj\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 16.01\obj\Debug\Atestat_matrici.pdb
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 17.01\bin\Debug\Cont.mdf
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 17.01\bin\Debug\Cont_log.ldf
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 17.01\bin\Debug\Atestat_matrici.exe.config
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 17.01\bin\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 17.01\bin\Debug\Atestat_matrici.pdb
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 17.01\obj\Debug\Atestat_matrici.csproj.AssemblyReference.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 17.01\obj\Debug\Atestat_matrici.Form1.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 17.01\obj\Debug\Atestat_matrici.Properties.Resources.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 17.01\obj\Debug\Atestat_matrici.csproj.GenerateResource.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 17.01\obj\Debug\Atestat_matrici.csproj.CoreCompileInputs.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 17.01\obj\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 17.01\obj\Debug\Atestat_matrici.pdb
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 18.01\bin\Debug\Cont.mdf
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 18.01\bin\Debug\Cont_log.ldf
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 18.01\bin\Debug\Atestat_matrici.exe.config
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 18.01\bin\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 18.01\bin\Debug\Atestat_matrici.pdb
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 18.01\obj\Debug\Atestat_matrici.csproj.AssemblyReference.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 18.01\obj\Debug\Atestat_matrici.Form1.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 18.01\obj\Debug\Atestat_matrici.Properties.Resources.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 18.01\obj\Debug\Atestat_matrici.csproj.GenerateResource.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 18.01\obj\Debug\Atestat_matrici.csproj.CoreCompileInputs.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 18.01\obj\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 18.01\obj\Debug\Atestat_matrici.pdb
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 19.01\bin\Debug\Cont.mdf
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 19.01\bin\Debug\Cont_log.ldf
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 19.01\bin\Debug\Atestat_matrici.exe.config
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 19.01\bin\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 19.01\bin\Debug\Atestat_matrici.pdb
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 19.01\obj\Debug\Atestat_matrici.csproj.AssemblyReference.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 19.01\obj\Debug\Atestat_matrici.Form1.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 19.01\obj\Debug\Atestat_matrici.Properties.Resources.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 19.01\obj\Debug\Atestat_matrici.csproj.GenerateResource.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 19.01\obj\Debug\Atestat_matrici.csproj.CoreCompileInputs.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 19.01\obj\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 19.01\obj\Debug\Atestat_matrici.pdb
+D:\Mihai Bucila XII A\Atestat_matrici - 19.01\bin\Debug\Cont.mdf
+D:\Mihai Bucila XII A\Atestat_matrici - 19.01\bin\Debug\Cont_log.ldf
+D:\Mihai Bucila XII A\Atestat_matrici - 19.01\bin\Debug\Atestat_matrici.exe.config
+D:\Mihai Bucila XII A\Atestat_matrici - 19.01\bin\Debug\Atestat_matrici.exe
+D:\Mihai Bucila XII A\Atestat_matrici - 19.01\bin\Debug\Atestat_matrici.pdb
+D:\Mihai Bucila XII A\Atestat_matrici - 19.01\obj\Debug\Atestat_matrici.csprojAssemblyReference.cache
+D:\Mihai Bucila XII A\Atestat_matrici - 19.01\obj\Debug\Atestat_matrici.Form1.resources
+D:\Mihai Bucila XII A\Atestat_matrici - 19.01\obj\Debug\Atestat_matrici.Properties.Resources.resources
+D:\Mihai Bucila XII A\Atestat_matrici - 19.01\obj\Debug\Atestat_matrici.csproj.GenerateResource.cache
+D:\Mihai Bucila XII A\Atestat_matrici - 19.01\obj\Debug\Atestat_matrici.csproj.CoreCompileInputs.cache
+D:\Mihai Bucila XII A\Atestat_matrici - 19.01\obj\Debug\Atestat_matrici.exe
+D:\Mihai Bucila XII A\Atestat_matrici - 19.01\obj\Debug\Atestat_matrici.pdb
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 20.01\bin\Debug\Cont.mdf
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 20.01\bin\Debug\Cont_log.ldf
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 20.01\bin\Debug\Atestat_matrici.exe.config
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 20.01\bin\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 20.01\bin\Debug\Atestat_matrici.pdb
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 20.01\obj\Debug\Atestat_matrici.csproj.AssemblyReference.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 20.01\obj\Debug\Atestat_matrici.Form1.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 20.01\obj\Debug\Atestat_matrici.Properties.Resources.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 20.01\obj\Debug\Atestat_matrici.csproj.GenerateResource.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 20.01\obj\Debug\Atestat_matrici.csproj.CoreCompileInputs.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 20.01\obj\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 20.01\obj\Debug\Atestat_matrici.pdb
+D:\12 a\AtestatBucila\Atestat_matrici - 26.01\bin\Debug\Cont.mdf
+D:\12 a\AtestatBucila\Atestat_matrici - 26.01\bin\Debug\Cont_log.ldf
+D:\12 a\AtestatBucila\Atestat_matrici - 26.01\bin\Debug\Atestat_matrici.exe.config
+D:\12 a\AtestatBucila\Atestat_matrici - 26.01\bin\Debug\Atestat_matrici.exe
+D:\12 a\AtestatBucila\Atestat_matrici - 26.01\bin\Debug\Atestat_matrici.pdb
+D:\12 a\AtestatBucila\Atestat_matrici - 26.01\obj\Debug\Atestat_matrici.csprojAssemblyReference.cache
+D:\12 a\AtestatBucila\Atestat_matrici - 26.01\obj\Debug\Atestat_matrici.Form1.resources
+D:\12 a\AtestatBucila\Atestat_matrici - 26.01\obj\Debug\Atestat_matrici.Properties.Resources.resources
+D:\12 a\AtestatBucila\Atestat_matrici - 26.01\obj\Debug\Atestat_matrici.csproj.GenerateResource.cache
+D:\12 a\AtestatBucila\Atestat_matrici - 26.01\obj\Debug\Atestat_matrici.csproj.CoreCompileInputs.cache
+D:\12 a\AtestatBucila\Atestat_matrici - 26.01\obj\Debug\Atestat_matrici.exe
+D:\12 a\AtestatBucila\Atestat_matrici - 26.01\obj\Debug\Atestat_matrici.pdb
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 26.01\bin\Debug\Cont.mdf
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 26.01\bin\Debug\Cont_log.ldf
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 26.01\bin\Debug\Atestat_matrici.exe.config
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 26.01\bin\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 26.01\bin\Debug\Atestat_matrici.pdb
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 26.01\obj\Debug\Atestat_matrici.csproj.AssemblyReference.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 26.01\obj\Debug\Atestat_matrici.Form1.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 26.01\obj\Debug\Atestat_matrici.Properties.Resources.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 26.01\obj\Debug\Atestat_matrici.csproj.GenerateResource.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 26.01\obj\Debug\Atestat_matrici.csproj.CoreCompileInputs.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 26.01\obj\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 26.01\obj\Debug\Atestat_matrici.pdb
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 02.02\bin\Debug\Cont.mdf
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 02.02\bin\Debug\Cont_log.ldf
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 02.02\bin\Debug\Atestat_matrici.exe.config
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 02.02\bin\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 02.02\bin\Debug\Atestat_matrici.pdb
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 02.02\obj\Debug\Atestat_matrici.csproj.AssemblyReference.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 02.02\obj\Debug\Atestat_matrici.Form1.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 02.02\obj\Debug\Atestat_matrici.Properties.Resources.resources
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 02.02\obj\Debug\Atestat_matrici.csproj.GenerateResource.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 02.02\obj\Debug\Atestat_matrici.csproj.CoreCompileInputs.cache
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 02.02\obj\Debug\Atestat_matrici.exe
+C:\Personal Data\School\Programare\C#\Atestat_matrici - 02.02\obj\Debug\Atestat_matrici.pdb
